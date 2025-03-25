@@ -10,10 +10,10 @@
 
 ## 🚀 Tools & Tech
 
-<code><img height="25" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
-<code><img height="25" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
-<code><img height="25" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
-<code><img height="25" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
+<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg"></code>
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/huuphuc02)
 ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql)
