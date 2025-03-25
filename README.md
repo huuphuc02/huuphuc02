@@ -6,7 +6,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huuphuc02&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huuphuc02&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?username=huuphuc02&theme=highcontrast)
 
 ## 🚀 Tools & Tech
 
