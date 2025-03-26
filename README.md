@@ -5,7 +5,6 @@
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/huu-phuc-chu-0a6343293/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huuphuc02&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huuphuc02&layout=compact)
 
 ## 🚀 Tools & Tech
 
